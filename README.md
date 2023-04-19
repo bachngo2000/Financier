@@ -16,7 +16,7 @@ To learn more about the application, please visit:
 
 ## Video Walkthrough
 
-Here's a walkthrough of the application
+Here's a walkthrough of the implemented application features:
 
-<img src='Flights/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='client/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
