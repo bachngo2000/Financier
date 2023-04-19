@@ -1,5 +1,7 @@
 # Financier: A Fullstack MERN Finance Dashboard App | Machine Learning, Typescript, JavaScript, React, Node, Express, MongoDB, Material UI, Docker.
 
+<img src='typescript-svgrepo-com.svg' title='Webpage Overview' width='100' alt='Webpage Overview' />
+
 ## About
 
 Financier is a full-stack MERN Finance Dashboard App with Machine Learning predictions using Regression. 
