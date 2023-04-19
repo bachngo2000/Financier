@@ -1,6 +1,6 @@
 # Financier: A Fullstack MERN Finance Dashboard App | Machine Learning, Typescript, JavaScript, React, Node, Express, MongoDB, Material UI, Docker.
 
-<img src='typescript-svgrepo-com.svg' title='Webpage Overview' width='100' alt='Webpage Overview' />
+<img src='typescript-svgrepo-com.svg' title='Webpage Overview' width='100' alt='Webpage Overview' /> <img src='icons8-javascript.svg' title='Webpage Overview' width='100' alt='Webpage Overview' />
 
 ## About
 
