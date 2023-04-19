@@ -1,1 +1,1 @@
-# Financier: A Fullstack MERN (MongoDB, Express.js, React, Node.js) Finance Dashboard App with Machine Learning Predictions
+# Financier: A Fullstack MERN Finance Dashboard App | Machine Learning, Typescript, JavaScript, React, Node, Express, MongoDB, Material UI, Docker.
